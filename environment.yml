@@ -1,0 +1,10 @@
+name: email-integration
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - imapclient
+    - python-dotenv 

@@ -1,0 +1,6 @@
+[
+  {
+    "type": "sqlite",
+    "path": "c:\\Repos\\LLMEmailIntergration\\appointments.db"
+  }
+]
